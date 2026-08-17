@@ -1,1 +1,3 @@
-# DA45--PROJECT
+**HR DATA ANALYSIS**
+
+This project is about analysing employee performence.
